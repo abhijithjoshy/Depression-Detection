@@ -76,7 +76,7 @@ data.Normal.value_counts(normalize=True)
 
 
 
-data.head()
+
 
 
 
@@ -88,7 +88,7 @@ data_count=data.iloc[:,2:].sum()
 
 
 num_rows = len(data)
-print(num_rows)
+
 
 
 
