@@ -1,4 +1,4 @@
-
+#run this code on system ide like pycharm,jupyter etc.
 
 print("\n\n\n")
 import itertools
